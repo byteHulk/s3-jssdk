@@ -16,7 +16,8 @@
     "storybook": "storybook dev -p 6006",
     "storybook-docs": "storybook dev --docs",
     "build-storybook": "storybook build",
-    "build-storybook-docs": "storybook build --docs"
+    "build-storybook-docs": "storybook build --docs",
+    "build-storybook-docszz": "storybook build --docs"
   },
   "repository": {
     "type": "git",
