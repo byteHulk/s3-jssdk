@@ -12,6 +12,7 @@ jobs:
   changelog:
     name: Changelog PR or Release
     runs-on: ubuntu-latest
+    permissions: read-all|write-all
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
